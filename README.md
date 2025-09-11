@@ -3,4 +3,4 @@
 ## to run project:
 npm run dev 
 ## View Site:
-(https://flowinginsights.netlify.app/)
+https://flowinginsights.netlify.app/
